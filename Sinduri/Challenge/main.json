@@ -1,0 +1,29 @@
+var items = [{
+	"name": "6 Ponies Collection",
+	"imgs": "img/6ponies.jpg",
+	"price": "$25"
+}, {
+	"name": "School of Friendship",
+	"imgs": "img/school.jpg",
+	"price": "$60"
+}, {
+	"name": "Canterlot Castle",
+	"imgs": "img/castle.jpg",
+	"price": "$100"
+}, {
+	"name": "Princess Luna Figurine",
+	"imgs": "img/luna.jpg",
+	"price": "$10"
+}, {
+	"name": "Glitter & Style Seapony Fluttershy",
+	"imgs": "img/fluttershy.jpg",
+	"price": "$15"
+}, {
+	"name": "Ultimate Equestria Collection",
+	"imgs": "img/collection.jpg",
+	"price": "$70"
+}, {
+	"name": "Fluttershy & bunny",
+	"imgs": "img/fluttershy2.jpg",
+	"price": "$5"
+}]

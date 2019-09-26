@@ -1,0 +1,71 @@
+var employees = [{
+	"userID": "1231",
+	"firstName": "Jason",
+	"lastName": "Bourne",
+	"emailId": "abc@123.com",
+	"jobTitle": "Assassin",
+	"salary": "$234000"
+}, {
+	"userID": "1232",
+	"firstName": "Black",
+	"lastName": "Widow",
+	"emailId": "blackwidow@123.com",
+	"jobTitle": "Assassin",
+	"salary": "$1256000"
+}, {
+	"userID": "1233",
+	"firstName": "Iron",
+	"lastName": "Man",
+	"emailId": "ironman@123.com",
+	"jobTitle": "Owner",
+	"salary": "$222222234000"
+}, {
+	"userID": "1234",
+	"firstName": "Captain",
+	"lastName": "America",
+	"emailId": "capAmerica@123.com",
+	"jobTitle": "Soldier",
+	"salary": "$124000"
+}, {
+	"userID": "1235",
+	"firstName": "Bruce",
+	"lastName": "Banner",
+	"emailId": "hulk@123.com",
+	"jobTitle": "Smasher/Scientist",
+	"salary": "$564000"
+}, {
+	"userID": "1236",
+	"firstName": "Scott",
+	"lastName": "Lang",
+	"emailId": "antman@123.com",
+	"jobTitle": "Antman/Scientist",
+	"salary": "$234000"
+}, {
+	"userID": "1237",
+	"firstName": "Thor",
+	"lastName": "Odinson",
+	"emailId": "thor@123.com",
+	"jobTitle": "Avenger",
+	"salary": "$128000"
+}, {
+	"userID": "1238",
+	"firstName": "Stephen",
+	"lastName": "Strange",
+	"emailId": "strange@123.com",
+	"jobTitle": "Doctor",
+	"salary": "$258000"
+}, {
+	"userID": "1239",
+	"firstName": "Black",
+	"lastName": "Panther",
+	"emailId": "blackP@123.com",
+	"jobTitle": "King",
+	"salary": "$1234000"
+}, {
+	"userID": "1240",
+	"firstName": "Bucky",
+	"lastName": "Barner",
+	"emailId": "bucky@123.com",
+	"jobTitle": "Winter Soldier",
+	"salary": "$204000"
+}]
