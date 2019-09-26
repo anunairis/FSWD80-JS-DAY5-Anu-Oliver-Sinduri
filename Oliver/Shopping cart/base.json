@@ -1,0 +1,6 @@
+var pictures = [
+    {
+        "pictureHeader": "./Pictures/Glasses.png",
+        "firstBuy":"./Pictures/bnhaDeku.png"
+    }
+]
